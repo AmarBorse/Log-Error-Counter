@@ -1,0 +1,11 @@
+2026-09-28 09:00:01 INFO  Service started
+2026-09-28 09:05:12 ERROR Database connection failed
+2026-09-28 09:06:40 INFO  Retrying connection
+2026-09-28 09:07:03 ERROR Timeout while reading from socket
+2026-09-28 09:15:22 WARN  Slow response detected
+2026-09-28 09:20:45 ERROR Failed to write cache file
+2026-09-28 09:31:09 INFO  Request completed
+2026-09-28 09:42:18 ERROR Invalid user token
+2026-09-28 09:50:56 ERROR Out of memory in worker 3
+2026-09-28 10:02:31 ERROR Payment gateway unreachable
+2026-09-28 10:10:00 INFO  Service healthy
